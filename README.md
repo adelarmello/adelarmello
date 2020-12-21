@@ -16,6 +16,6 @@ Sou estudante de desenvolvimento Web: focado na stack JavaScript.
   </a>
   
   <a href="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelarmello&hide=html&layout=compact&theme=default" a width="400px" align="right" alt="Github status"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelarmello&hide=html&layout=compact&theme=default" a width="400px" align="left" alt="Github status"/>
   </a>
  
