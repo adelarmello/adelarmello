@@ -12,10 +12,7 @@ Sou estudante de desenvolvimento Web: focado na stack JavaScript.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adelarmello8@gmail.com)](mailto:adelarmello8@gmail.com)
 
   <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=adelarmello&show_icons=true&theme=default" alt="Github status" width="500px" align="right"  />
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=adelarmello&show_icons=true&theme=default" alt="Github status" width="500px"              align="right"  />
   </a>
-  
-  <a href="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelarmello&hide=html&layout=compact&theme=default" a width="400px" align="left" alt="Github status"/>
-  </a>
+
  
