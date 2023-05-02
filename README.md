@@ -8,9 +8,9 @@ Desenvolvedor Web
 
 Atualmente, estou aprendendo e aprofundando meus conhecimentos em algumas das tecnologias do ecosistema JavaScript com ReactJS e NodeJS.
 
-* 🌍  Moro no Rio Grande do Sul, Brasil.
-* 🖥️  Meus projetos estão em [meu portfólio](http://https://adelarmello.github.io/)
-* ✉️  Entre em contato [adelarmello8@gmail.com](mailto:adelarmello8@gmail.com)
+* 🌍  Rio Grande do Sul, Brasil.
+* 🖥️  Meus projetos estão em meu portfólio [neste link](http://http://adelarmello.github.io/)
+* ✉️  Entre em contato pelo e-mail [adelarmello8@gmail.com](mailto:adelarmello8@gmail.com)
 
 ### Skills
 
